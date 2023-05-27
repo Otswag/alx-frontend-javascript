@@ -13,4 +13,4 @@ function handleProfileSignup(firstName, lastName, fileName) {
     return arr;
   });
 }
-export default function handleProfileSignUp;
+export default handleProfileSignUp;
